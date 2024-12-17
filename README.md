@@ -8,6 +8,7 @@
 
 [The Rust Reference](https://doc.rust-lang.org/stable/reference/introduction.html)
 
+[Rust Development Classes](https://rust-classes.com/preface)
 .
 
 .
@@ -17,8 +18,6 @@
 [Rust by Practice](https://practice.course.rs/why-exercise.html)
 
 [The Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
-
-[Rust Development Classes](https://rust-classes.com/preface)
 
 .
 
