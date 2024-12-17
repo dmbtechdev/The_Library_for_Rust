@@ -8,13 +8,19 @@
 
 [The Rust Reference](https://doc.rust-lang.org/stable/reference/introduction.html)
 
+.
+
+.
+
+# Practise
+
 [Rust by Practice](https://practice.course.rs/why-exercise.html)
 
 [The Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 
+[Rust Development Classes](https://rust-classes.com/preface)
+
 .
-
-
 
 .
 
@@ -24,8 +30,6 @@
 
 .
 
-
-
 .
 
 # Async
@@ -34,8 +38,6 @@
 
 .
 
-
-
 .
 
 # Macros
@@ -43,7 +45,6 @@
 [The Little Book of Rust Macros](https://veykril.github.io/tlborm/)
 
 .
-
 
 .
 
