@@ -51,3 +51,11 @@
 # Embedded Rust
 
 [The Embedded Rust Book](https://docs.rust-embedded.org/book/intro/index.html)
+
+.
+
+.
+
+# RFC Rust
+
+[Rust RFCs - RFC Book - Active RFC List](https://rust-lang.github.io/rfcs/introduction.html)
