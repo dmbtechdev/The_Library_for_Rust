@@ -4,11 +4,12 @@
 
 [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
 
-[The Rust Book Old Versions](https://doc.rust-lang.org/1.30.0/book/index.html)
-
 [The Rust Reference](https://doc.rust-lang.org/stable/reference/introduction.html)
 
+[The Rust Book Old Versions](https://doc.rust-lang.org/1.30.0/book/index.html)
+
 [Rust Development Classes](https://rust-classes.com/preface)
+
 .
 
 .
