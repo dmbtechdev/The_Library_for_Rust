@@ -20,6 +20,10 @@
 
 [The Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 
+[Rustlings](https://github.com/rust-lang/rustlings/)
+
+[Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
+
 .
 
 .
