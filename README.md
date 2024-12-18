@@ -1,4 +1,4 @@
-# Rust Library
+# The Library for Rust
 
 [Rust Web Site](https://www.rust-lang.org/learn)
 
@@ -28,6 +28,18 @@
 
 .
 
+# YouTube
+
+
+.
+
+.
+# Bootcamp
+
+
+.
+
+.
 # Unstable
 
 [The Rust Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/)
