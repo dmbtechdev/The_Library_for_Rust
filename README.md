@@ -75,6 +75,8 @@
 
 [The Embedded Rust Book](https://docs.rust-embedded.org/book/intro/index.html)
 
+[The Rust on ESP Book](https://docs.esp-rs.org/book/introduction.html)
+
 .
 
 .
