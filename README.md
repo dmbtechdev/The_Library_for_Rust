@@ -29,7 +29,7 @@
 .
 
 # YouTube
-[Rust by Example](https://www.youtube.com/@letsgetrusty)
+[Let's Get Rusty](https://www.youtube.com/@letsgetrusty)
 
 .
 
