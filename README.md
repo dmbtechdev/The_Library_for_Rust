@@ -25,7 +25,14 @@
 [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
 
 [Rustfinity](https://www.rustfinity.com/)
+.
 
+.
+
+
+# Online Editor
+
+[Rust Playground](https://play.rust-lang.org/)
 .
 
 .
