@@ -29,13 +29,18 @@
 .
 
 # YouTube
-
+[Rust by Example](https://www.youtube.com/@letsgetrusty)
 
 .
 
 .
 # Bootcamp
+[Let's Get Rusty - Affiliate](https://barisdmbtechdev.krtra.com/t/K3qGnSkRx4Za)
 
+.
+
+.
+# Job Listings
 
 .
 
