@@ -14,6 +14,13 @@
 
 .
 
+# Chat
+[Rust Lang Zulip Chat](https://rust-lang.zulipchat.com/)
+
+.
+
+.
+
 # Practise
 
 [Rust by Practice](https://practice.course.rs/why-exercise.html)
