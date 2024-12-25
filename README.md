@@ -60,7 +60,7 @@
 
 .
 # Bootcamp
-[Let's Get Rusty - Affiliate](https://barisdmbtechdev.krtra.com/t/K3qGnSkRx4Za)
+[Let's Get Rusty](https://barisdmbtechdev.krtra.com/t/K3qGnSkRx4Za)
 
 .
 
