@@ -100,6 +100,8 @@
 
 [The Rust on ESP Book](https://docs.esp-rs.org/book/introduction.html)
 
+[The Embedded Rustacean](https://www.theembeddedrustacean.com/subscribe?ref=lwxbvkKOrL)
+
 .
 
 .
