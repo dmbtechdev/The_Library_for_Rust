@@ -104,6 +104,8 @@
 
 [Awesome Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust)
 
+[The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/preface.html)
+
 .
 
 .
