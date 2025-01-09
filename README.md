@@ -102,6 +102,8 @@
 
 [The Embedded Rustacean](https://www.theembeddedrustacean.com/subscribe?ref=lwxbvkKOrL)
 
+[Awesome Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust)
+
 .
 
 .
